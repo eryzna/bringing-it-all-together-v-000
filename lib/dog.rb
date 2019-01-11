@@ -43,7 +43,7 @@ class Dog
     new_dog.save
     new_dog
   end
-    
+
 
 
 
